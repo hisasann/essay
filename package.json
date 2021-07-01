@@ -1,0 +1,14 @@
+{
+  "name": "essay",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve"
+  },
+  "author": "hisamatsu yoshiyuki <hisasann25@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "honkit": "^3.6.20"
+  }
+}
