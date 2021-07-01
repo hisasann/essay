@@ -1,3 +1,4 @@
 # 目次 {#summary}
 
-- [夢とチャーハン](./夢とチャーハン.md)
+- [夢とチャーハン](./dream-and-fried-rice.md)
+- [オールド・テロリストとの出会い](./encounter-with-old-terrorists.md)
