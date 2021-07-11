@@ -1,7 +1,7 @@
-# 目次 {#summary}
+# ミックスナッツは高いほうがいい
 
-- [夢とチャーハン](./dream-and-fried-rice.md)
-- [オールド・テロリストとの出会い](./encounter-with-old-terrorists.md)
-- [お蕎麦](./soba.md)
-- [ドッグイヤー](./dog-ear.md)
+### このエッセイについて
 
+[@hisasann](https://twitter.com/hisasann) 自身の話や、人生で起こった出来事をエッセイとしてまとめています。
+
+くだらない話で構成されていますので、暖かく見守っていただけますと幸いです。
