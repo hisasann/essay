@@ -11,6 +11,7 @@
 - [私は40歳を超えてもゲームをする](./i-play-games-even-if-i-am-over-40.md)
 - [本棚](./bookshelf.md)
 - [遊星からの物体Ｘ依存症](./the-thing.md)
+- [バスタオルやめました](./quit-the-bath-towel.md)
 
 --
 
