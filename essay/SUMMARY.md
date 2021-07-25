@@ -12,6 +12,7 @@
 - [本棚](./bookshelf.md)
 - [遊星からの物体Ｘ依存症](./the-thing.md)
 - [バスタオルやめました](./quit-the-bath-towel.md)
+- [ミックスナッツは高い方がいい](./buy-expensive-mixed-nuts.md)
 
 --
 
