@@ -14,6 +14,7 @@
 - [バスタオルやめました](./quit-the-bath-towel.md)
 - [ミックスナッツは高いほうがいい](./buy-expensive-mixed-nuts.md)
 - [散歩にハマる](./addicted-to-a-walk.md)
+- [コンビニ・ストレンジ・デイズ](./convenience-store-strange-days.md)
 
 --
 
