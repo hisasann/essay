@@ -15,6 +15,7 @@
 - [ミックスナッツは高いほうがいい](./buy-expensive-mixed-nuts.md)
 - [散歩にハマる](./addicted-to-a-walk.md)
 - [コンビニ・ストレンジ・デイズ](./convenience-store-strange-days.md)
+- [お酒やめましたのその後](./i-quit-drinking.md)
 
 --
 
