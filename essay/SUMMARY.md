@@ -18,6 +18,7 @@
 - [お酒やめましたのその後](./i-quit-drinking.md)
 - [夢と間のビスケット](./biscuits-between-dreams.md)
 - [テリヤキバーガーセット](./teriyaki-burger-combo.md)
+- [VimとHHKB](./vim-and-hhkb.md)
 
 --
 
