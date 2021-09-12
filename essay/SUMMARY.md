@@ -19,6 +19,7 @@
 - [夢と間のビスケット](./biscuits-between-dreams.md)
 - [テリヤキバーガーセット](./teriyaki-burger-combo.md)
 - [VimとHHKB](./vim-and-hhkb.md)
+- [一万円分のCDを持つ少年](./a-boy-with-a-cd-worth-10000yen.md)
 
 --
 
