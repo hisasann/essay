@@ -21,6 +21,7 @@
 - [VimとHHKB](./vim-and-hhkb.md)
 - [一万円分のCDを持つ少年](./a-boy-with-a-cd-worth-10000yen.md)
 - [良いヘッドホン is 良い](./good-headphones-is-good.md)
+- [ターンテーブルと壊れたミキサー](./turntable-and-broken-mixer.md)
 
 --
 
