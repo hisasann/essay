@@ -23,6 +23,7 @@
 - [良いヘッドホン is 良い](./good-headphones-is-good.md)
 - [ターンテーブルと壊れたミキサー](./turntable-and-broken-mixer.md)
 - [風の谷のナウシカ](./nausicaa-of-the-valley-of-the-wind.md)
+- [第2のスケートボード](./second-skateboard.md)
 
 --
 
