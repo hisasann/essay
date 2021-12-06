@@ -28,7 +28,8 @@
 - [帽子LOVE](./i-love-cap.md)
 - [ダークソウルと啓蒙の冒涜](./darksouls-is-special-game-for-me.md)
 - [ポテチイズム](potetochips-ism.md)
-- [アプノーマル村上](abnormal-murakami-ryu.md)
+- [アブノーマル村上](abnormal-murakami-ryu.md)
+- [年末のソワソワ感](year-end-is-sowasowa.md)
 
 --
 
