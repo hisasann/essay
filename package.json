@@ -11,8 +11,8 @@
   "author": "hisamatsu yoshiyuki <hisasann25@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "honkit": "^3.6.22",
-    "textlint": "^12.0.2",
+    "honkit": "^3.6.23",
+    "textlint": "^12.1.0",
     "textlint-filter-rule-whitelist": "^2.0.0",
     "textlint-rule-no-todo": "^2.0.1",
     "textlint-rule-preset-ja-spacing": "^2.2.0",
