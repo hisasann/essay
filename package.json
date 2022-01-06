@@ -6,7 +6,8 @@
     "build": "honkit build",
     "serve": "honkit serve",
     "textlint": "textlint --config .textlintrc.js ./essay/**/*.md",
-    "textlint:fix": "yarn textlint --fix --format diff"
+    "textlint:fix": "yarn textlint --fix --format diff",
+    "count": "cd essay && cat *.md | wc -m"
   },
   "author": "hisamatsu yoshiyuki <hisasann25@gmail.com>",
   "license": "MIT",
