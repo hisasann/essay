@@ -31,6 +31,7 @@
 - [アブノーマル村上](abnormal-murakami-ryu.md)
 - [年末のソワソワ感](year-end-is-sowasowa.md)
 - [豊島園多分100回行った](toshimaen-maybe-i-went-100-times.md)
+- [清澄白河森下](kiyosumi-shirakawa-morishita.md)
 
 --
 
