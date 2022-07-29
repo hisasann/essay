@@ -34,6 +34,7 @@
 - [清澄白河森下](kiyosumi-shirakawa-morishita.md)
 - [ドラキュラというカラースキーマがある](dracula-color-scheme.md)
 - [一人旅](traveling-alone.md)
+- [隣町ルーティーン](next-station-routine.md)
 
 --
 
